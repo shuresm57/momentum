@@ -42,7 +42,7 @@ The issue can be put down in the following equation:
 
 ![Alt text](imgs/equation.png)
 
-*Product Value* is shaped by the right development method, good team initiative and the correct focus, but if we have meetings with no real gain, slow development methods or tedious weeks of testing different deployments, we increase friction.
+Product Value is shaped by the right development method, good team initiative and the correct focus. If we have meetings with no real gain, slow development methods or tedious weeks of testing different deployments, we increase friction and thus lower the Product Value.
 
 ## How Momentum Fixes This
 
